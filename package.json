@@ -1,0 +1,23 @@
+{
+  "name": "cse341",
+  "version": "1.0.0",
+  "description": "This repository contains a collection of code for students that take the CSE 341 course at Brigham Young University - Idaho.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/richardlyonheart/cse341.git"
+  },
+  "author": "brenden Lyon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/richardlyonheart/cse341/issues"
+  },
+  "homepage": "https://github.com/richardlyonheart/cse341#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
